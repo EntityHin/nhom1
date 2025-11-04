@@ -16,6 +16,7 @@ int main()
 	cout << "Nhap b: ";
 	cin>> b;
 	cout<<"Tong = " << tong(a,b) << endl;
+	cout<<"Hieu = " << hieu(a,b) << endl;
 	system("pause");
 	return 0;
 }
