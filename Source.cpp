@@ -9,6 +9,9 @@ int hieu(int a, int b){
 }
 int tich(int a, int b);
 float thuong(int a, int b);
+void name(){
+	cout << "Khang";
+}
 int main()
 {
 	int a,b;
